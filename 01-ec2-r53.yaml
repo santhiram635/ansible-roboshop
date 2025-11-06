@@ -6,7 +6,7 @@
     sg_id: sg-0d64a143e0c4e9ecb # replace with your SG ID
     zone_id: "Z0276032366IKHANOML69" # replace with your ID
     domain_name: "mokshi.fun"
-    # we can pass instances through command line using -e
+        # we can pass instances through command line using -e
     # instances: 
     # - mongodb
     # - redis
